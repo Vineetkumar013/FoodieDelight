@@ -87,7 +87,6 @@ const Menu = () => {
 };
 
 useEffect(() => {
-  // Initialize dishes with the first batch from the initialDishes array
   setDishes(initialDishes.slice(0, 10));
   setFilteredDishes(initialDishes.slice(0, 10));
 }, []);
