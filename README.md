@@ -16,8 +16,8 @@ React Router DOM: For client-side routing between different pages.
 Heroicons: Beautifully crafted icons to enhance the UI.
 React Infinite Scroll Component: Smooth infinite scrolling for loading products dynamically.
 React Toastify: Elegant toast notifications for user feedback.
-📸 Screenshots
 Home Screen
+![alt text](image.png)
 
 🛠️ Installation and Setup
 To run this project locally, follow these steps:
