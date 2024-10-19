@@ -1,4 +1,8 @@
 🍽️ FoodieDelight
+
+Home Screen
+![alt text](image.png)
+
 FoodieDelight is a modern, sleek, and responsive web application that brings a delightful experience to food lovers. Featuring a beautiful home screen, animated interactions, and essential e-commerce functionalities like adding products to the cart, FoodieDelight is built with the latest web technologies to ensure smooth performance and user engagement.
 
 🚀 Features
@@ -16,8 +20,7 @@ React Router DOM: For client-side routing between different pages.
 Heroicons: Beautifully crafted icons to enhance the UI.
 React Infinite Scroll Component: Smooth infinite scrolling for loading products dynamically.
 React Toastify: Elegant toast notifications for user feedback.
-Home Screen
-![alt text](image.png)
+
 
 🛠️ Installation and Setup
 To run this project locally, follow these steps:
